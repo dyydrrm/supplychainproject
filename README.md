@@ -32,3 +32,7 @@ Esnek Adres Yapısı: Müşterilerin ve depoların koordinat (latitude/longitude
 /sql: Veritabanı şemasını oluşturan DDL kodları.
 /scripts: Veritabanını Faker kütüphanesi ile dolduran Python kodları.
 /powerbi: Veri görselleştirme ve KPI dashboardları.
+
+## 📊 Proje Analiz Çıktıları
+![ABC Analizi](./visuals/abc_analysis.jpeg)
+![Isı Haritası](./visuals/supply_chain_heatmap.jpeg)
